@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Products</title>
+ <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.4/css/bootstrap.min.css">
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+  <script src="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.4/js/bootstrap.min.js"></script>
+
+  <%= stylesheet_link_tag    "application", :media => "all" %>
+  <%= javascript_include_tag "application" %>
+  <%= csrf_meta_tags %>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+</head>
+<body>
+<body style="background-color:#3366FF">
+<div class="container">
+  <h2>Products</h2>
+  <div class="btn-group btn-group-justified">
+    <a href="#" class="btn btn-primary">Home</a>
+    <a href="#" class="btn btn-primary">UoB</a>
+    <a href="#" class="btn btn-primary">Contact</a>
+  </div>
+</div>
+<div class="container">
+<div class="jumbotron">  
+</div>
+  <div class="row">
+    <div class="col-md-3">
+      
+    </div>
+    <div class="col-md-3"> 
+          </div>
+    <div class="col-md-3"> 
+      
+    </div>
+    <div class="col-md-3">
+      <ul class="nav nav-pills nav-stacked">
+        <li class="active"><a href="#">Home</a></li>
+        <li class="dropdown">
+          <a class="dropdown-toggle" data-toggle="dropdown" href="#">Home <span class="caret"></span></a>
+          <ul class="dropdown-menu">
+            <li><a href="www.uob.edu.pk">UoB</a></li>
+            <li><a href="#">Contact me</a></li>
+            <li><a href="#">About me</a></li>                        
+          </ul>
+        </li>
+        <li><a href="#">contact</a></li>
+        <li><a href="#">About me</a></li>
+      </ul>
+    </div>
+    <div class="clearfix visible-lg"></div>
+  </div>
+</div>  
+</body>
+</html>
+
+
+

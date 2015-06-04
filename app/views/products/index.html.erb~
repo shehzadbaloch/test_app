@@ -1,0 +1,134 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>First RoR Blog</title>
+ <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.4/css/bootstrap.min.css">
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+  <script src="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.4/js/bootstrap.min.js"></script>
+
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+</head>
+<body>
+<body style="background-color:#003366">
+<div class="container">
+  <h2>It is free and always</h2>
+  <div class="btn-group btn-group-justified">
+    <a href="#" class="btn btn-primary">Home</a>
+    <a href="#" class="btn btn-primary">UoB</a>
+    <a href="#" class="btn btn-primary">Contact</a>
+  </div>
+</div>
+<div class="container">
+<div class="jumbotron">   
+  </div>
+
+  <div class="row">
+    <div class="col-md-3">
+      
+    </div>
+    <div class="col-md-3"> 
+          </div>
+    <div class="col-md-3"> 
+      
+    </div>
+    <div class="col-md-3">
+      <ul class="nav nav-pills nav-stacked">
+        <li class="active"><a href="#">Home</a></li>
+        <li class="dropdown">
+          <a class="dropdown-toggle" data-toggle="dropdown" href="#">Home <span class="caret"></span></a>
+          <ul class="dropdown-menu">
+            <li><a href="www.uob.edu.pk">UoB</a></li>
+            <li><a href="#">Contact me</a></li>
+            <li><a href="#">About me</a></li>                        
+          </ul>
+        </li>
+        <li><a href="#">contact</a></li>
+        <li><a href="#">About me</a></li>
+      </ul>
+    </div>
+    <div class="clearfix visible-lg"></div>
+  </div>
+</div>
+
+
+
+
+  <div class="navbar navbar-fixed-top">
+    <div class="navbar-inner">
+      <div class="container">
+        <a class="btn btn-navbar" data-toggle="collapse" data-target=".nav-collapse">
+          <span class="icon-bar"></span>
+          <span class="icon-bar"></span>
+          <span class="icon-bar"></span>
+        </a>
+        
+        <div class="nav-collapse">
+          <ul class="nav">
+          <div class="container">
+
+  </div>
+
+<br><br><br><br><br><br>
+<tr>
+<td>Name</td>
+<td>
+<input></td>
+</tr>
+<tr>
+<td>Password </td>
+<td>
+<input type ="password">
+</td>
+</tr>
+<button type="button" class="btn btn-success"><a href="https://www.facebook.com">Log in</button></a>
+
+<br>
+<br><br>
+<h2>Sing Up</h2>
+<tr>
+<td>Name</td>
+<td>
+<input></td>
+</tr>
+<tr>
+<td>Last Name</td>
+<td>
+<input></td>
+</tr>
+<br>
+<tr>
+<td>Gender</td>
+<td>
+<input type ="radio"> Male
+<input type ="radio"> Female
+</td>
+</tr>
+<br><br>
+<tr>
+<td>Email#</td>
+<td>
+<input></td>
+</tr>
+<tr>
+<td>New Password </td>
+<td>
+<input type ="password">
+</td>
+</tr>
+<br><br>
+<div class="container">
+  <button type="button" class="btn btn-success">Sign Up</button>
+</div>
+<br>
+<h2>About Me !</h2>
+        My Name is Shehzad Baloch from Nushki Balochistan.i have done my Bachelor From Degree college Nushki
+Now Doning My MSc(in Computer Science)at Balochistan University... i designed Blogs, software, project, Little Pc Games
+Software Installers ,Websites,,working with HTML , CSS , C# Sharp , Visual Studio , C Language , C++
+Have done MCp(Mircosoft Certified Professional ), CCNA ( Cisco Certified Network ,Association,)
+      </body>
+</html>
+
+
+
